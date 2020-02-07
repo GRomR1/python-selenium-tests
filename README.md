@@ -23,6 +23,6 @@ To view runned session open browser and follow to the link [http://localhost:808
 
 ### Details
 
-Read a detailed article about [Selenium in Docker]() that I explain details of the Selenoid.
+Read a detailed article about [Selenium in Docker](https://gainanov.pro/eng-blog/devops/selenium-in-docker-with-selenoid) where I explain details of the Selenoid.
 
 > Also read to official materials about [Selenoid](https://aerokube.com/selenoid/latest)
